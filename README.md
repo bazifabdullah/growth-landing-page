@@ -1,13 +1,10 @@
 
-# Landing Page
-
-Solution for a task by <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a>
-
+# Growth - Landing Page
 
 ## Built with
 
-HTML | CSS
+HTML | CSS  | JavaScript
 
 ## Overview
 
-I made this Landing Page as a project for Responsive Web Design Course by freeCodeCamp using HTML and CSS. The page is fully Responsive.
+I created this fully responsive landing page using HTML, CSS and JavaScript inspired by  <a href="https://www.youtube.com/@TraversyMedia">Brad Traversy</a>.
